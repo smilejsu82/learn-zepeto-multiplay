@@ -2,6 +2,11 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+**/Library/
+**/Logs/
+**/node_modules/
+**/Temp/
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -58,3 +63,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+LearnZepetoMultiplay/package-lock.json
+LearnZepetoMultiplay/tsconfig.json
